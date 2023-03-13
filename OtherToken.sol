@@ -2,19 +2,23 @@
 
 pragma solidity >=0.8.10;
 
+/**
+ * @title Standard ERC20 token
+ * based on OpenZeppelin code
+ **/
+
 import "./interfaces/IERC20.sol";
 import "./libraries/SafeMath.sol";
 
-contract Lulu is IERC20 {
+contract Other is IERC20 {
   using SafeMath for uint256;
 
   uint256 public constant _totalSupply = 10**13;
-  string public constant name = 'Lulu Token';
+  string public constant name = 'Other Token';
   uint8 public constant decimals = 10;
-  string public constant symbol = 'LULU';
+  string public constant symbol = 'OTHER';
 
-
-  mapping (address => uint256) private _balances;
+mapping (address => uint256) private _balances;
 
   mapping (address => mapping (address => uint256)) private _allowed;
 

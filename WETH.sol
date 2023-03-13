@@ -33,9 +33,10 @@ contract WETH {
         return address(this).balance;
     }
 
-    function approve(address guy, uint wad) public returns (bool) {
-        allowance[msg.sender][guy] = wad;
-        emit Approval(msg.sender, guy, wad);
+    function approve(address spender, uint wad) public returns (bool) {
+        require(spender != address(0));
+        allowance[msg.sender][spender] = wad;
+        emit Approval(msg.sender, spender, wad);
         return true;
     }
 
