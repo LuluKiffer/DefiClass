@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: XXX
+
 pragma solidity 0.8.17;
 
 contract HelloWorld{
