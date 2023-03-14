@@ -5,13 +5,13 @@ pragma solidity >=0.8.10;
 import "./interfaces/IERC20.sol";
 import "./libraries/SafeMath.sol";
 
-contract LuluToken is IERC20 {
+contract DefiToken is IERC20 {
   using SafeMath for uint256;
 
   uint256 public constant _totalSupply = 10**13;
-  string public constant name = 'Lulu Token';
+  string public constant name = 'Defi Token';
   uint8 public constant decimals = 10;
-  string public constant symbol = 'LULU';
+  string public constant symbol = 'DEFI';
 
 
   mapping (address => uint256) private _balances;
