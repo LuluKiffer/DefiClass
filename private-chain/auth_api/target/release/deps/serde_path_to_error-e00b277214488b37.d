@@ -1,0 +1,11 @@
+/home/ubuntu/auth_api/target/release/deps/serde_path_to_error-e00b277214488b37.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/de.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/path.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/ser.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/wrap.rs
+
+/home/ubuntu/auth_api/target/release/deps/libserde_path_to_error-e00b277214488b37.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/de.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/path.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/ser.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/wrap.rs
+
+/home/ubuntu/auth_api/target/release/deps/serde_path_to_error-e00b277214488b37.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/de.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/path.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/ser.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/wrap.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/de.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/path.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/ser.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_path_to_error-0.1.9/src/wrap.rs:

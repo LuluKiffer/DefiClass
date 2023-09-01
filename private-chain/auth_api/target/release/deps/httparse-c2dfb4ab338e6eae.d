@@ -1,0 +1,12 @@
+/home/ubuntu/auth_api/target/release/deps/httparse-c2dfb4ab338e6eae.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/sse42.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/avx2.rs
+
+/home/ubuntu/auth_api/target/release/deps/libhttparse-c2dfb4ab338e6eae.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/sse42.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/avx2.rs
+
+/home/ubuntu/auth_api/target/release/deps/httparse-c2dfb4ab338e6eae.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/sse42.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/avx2.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/sse42.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/avx2.rs:

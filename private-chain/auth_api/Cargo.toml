@@ -1,0 +1,14 @@
+[package]
+name = "auth_api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.6"
+secp256k1 = "0.21"
+sled = "0.34"
+serde = { version = "1", features = ["derive"] }
+tokio = { version = "1", features = ["full"] }
+tower = "0.4"
+tower-http = { version = "0.4", features = ["fs"] }
+web3 = "0.18"

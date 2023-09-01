@@ -1,0 +1,70 @@
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.26s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.16s
+     Running `target/release/auth_api`
+   Compiling auth_api v0.1.0 (/home/ubuntu/auth_api)
+error[E0277]: the trait bound `web3::types::Bytes: LowerHex` is not satisfied
+  --> src/main.rs:72:26
+   |
+72 |         println!("{:x}", signed_tx.raw_transaction);
+   |                          ^^^^^^^^^^^^^^^^^^^^^^^^^ the trait `LowerHex` is not implemented for `web3::types::Bytes`
+   |
+   = help: the following other types implement trait `LowerHex`:
+             &T
+             &mut T
+             Bloom
+             H128
+             H160
+             H256
+             H264
+             H32
+           and 57 others
+note: required by a bound in `ArgumentV1::<'a>::new_lower_hex`
+  --> /rustc/d5a82bbd26e1ad8b7401f6a718a9c57c96905483/library/core/src/fmt/mod.rs:348:5
+   |
+   = note: required by this bound in `ArgumentV1::<'a>::new_lower_hex`
+   = note: this error originates in the macro `$crate::format_args_nl` which comes from the expansion of the macro `arg_new` (in Nightly builds, run with -Z macro-backtrace for more info)
+
+For more information about this error, try `rustc --explain E0277`.
+error: could not compile `auth_api` due to previous error
+   Compiling auth_api v0.1.0 (/home/ubuntu/auth_api)
+    Finished release [optimized] target(s) in 30.79s
+     Running `target/release/auth_api`
+f86e80843b9aca083186a09469a82375a3399bc233f44bbb8aa76f1a16b37b4088de0b6b3a7640080824e42a021b4ec1829f5c48c2e08e6e2411a8de8c962b7c5e7ec4abf7ec454360feb52a0756c4294fbb5dd1c94f7f6e8b7f2fb7e465b6d6df32aa125fb163a2b8ad8c5
+   Compiling auth_api v0.1.0 (/home/ubuntu/auth_api)
+    Finished release [optimized] target(s) in 32.75s
+     Running `target/release/auth_api`
+    Finished release [optimized] target(s) in 0.92s
+     Running `target/release/auth_api`
+f86e80843b9aca 083 186a09469a82375a3399bc233f44bbb8aa76f1a16b37b4088 de0b6b3a764 0 080824e42a021b4ec 1829f5c48c2e08e6e2411a8de8c962b7c5e7ec4abf7ec454360fe b52a0756c4294fbb5dd1c94f7f6e8b7f2 f b7e465b6d6df32aa125fb163a2b8ad8c5
+   Compiling auth_api v0.1.0 (/home/ubuntu/auth_api)
+    Finished release [optimized] target(s) in 29.31s
+     Running `target/release/auth_api`
+thread 'tokio-runtime-worker' panicked at 'failed to send tx to node: Rpc(Error { code: ServerError(-32000), message: "replacement transaction underpriced", data: None })', src/main.rs:80:74
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace

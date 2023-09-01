@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ubuntu/auth_api/target/release/build/typenum-fbf896d2d2681613/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ubuntu/auth_api/target/release/build/typenum-fbf896d2d2681613/out/op.rs

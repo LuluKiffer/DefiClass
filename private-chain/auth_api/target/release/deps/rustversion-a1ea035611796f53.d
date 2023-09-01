@@ -1,0 +1,20 @@
+/home/ubuntu/auth_api/target/release/deps/librustversion-a1ea035611796f53.so: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/attr.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/bound.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/constfn.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/date.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/error.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expand.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expr.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/iter.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/release.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/time.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/token.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/version.rs /home/ubuntu/auth_api/target/release/build/rustversion-5fe9e94c53ce4519/out/version.expr
+
+/home/ubuntu/auth_api/target/release/deps/rustversion-a1ea035611796f53.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/attr.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/bound.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/constfn.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/date.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/error.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expand.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expr.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/iter.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/release.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/time.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/token.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/version.rs /home/ubuntu/auth_api/target/release/build/rustversion-5fe9e94c53ce4519/out/version.expr
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/attr.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/bound.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/constfn.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/date.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/error.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expand.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expr.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/iter.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/release.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/time.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/token.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/version.rs:
+/home/ubuntu/auth_api/target/release/build/rustversion-5fe9e94c53ce4519/out/version.expr:
+
+# env-dep:OUT_DIR=/home/ubuntu/auth_api/target/release/build/rustversion-5fe9e94c53ce4519/out
