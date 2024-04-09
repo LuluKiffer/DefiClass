@@ -15,3 +15,9 @@ in the ~/auth_api directory.
 # start the mining script
 
 go-ethereum-1.9.24/build/bin/geth --datadir DefiPrivateNetwork/ --networkid 9999 attach --exec 'loadScript("DefiPrivateNetwork/miner_script.js")' 
+
+# might need to stay go:
+
+# might need to also install openssl-devl
+
+sudo apt-get install libssl-dev
