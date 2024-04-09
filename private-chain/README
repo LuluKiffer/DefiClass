@@ -16,8 +16,9 @@ in the ~/auth_api directory.
 
 go-ethereum-1.9.24/build/bin/geth --datadir DefiPrivateNetwork/ --networkid 9999 attach --exec 'loadScript("DefiPrivateNetwork/miner_script.js")' 
 
-# might need to stay go:
+# first, might need to install go and make if running on a fresh aws machine:
+sudo apt install golang-go
+sudo apt install make
 
-# might need to also install openssl-devl
-
+# might need to also install openssl-devl for the website
 sudo apt-get install libssl-dev
